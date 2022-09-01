@@ -11,3 +11,5 @@ print("It was many and many a year ago, In a kingdom by the sea, That a maiden t
 print("  ")
 print("WORD TOKENIZED:")
 print(regexp_tokenize(my_string, pattern2))
+
+print(regexp_tokenize(my_string, pattern1))
